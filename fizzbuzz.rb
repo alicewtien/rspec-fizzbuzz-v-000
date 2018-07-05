@@ -4,7 +4,7 @@ def fizzbuzz(int)
   if int % 3 == fixnum
     puts "fizz"
 elsif int % 5 == fixnum
-    puts "fuzz"
+    puts "buzz"
 elsif int % 5 && int % 3
-  puts "fizzfuzz"
+  puts "fizzbuzz"
 end
