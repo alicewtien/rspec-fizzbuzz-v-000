@@ -4,5 +4,4 @@ def fizzbuzz(int)
   if int % 3 = fixnum
     puts "fizz"
   end
-
 end
